@@ -1,3 +1,2 @@
-# Bengali.AI ASR Challenge 2019
+# Bengali.AI ASR Repository
 
-ASR Challenge 2019 Supplementary Codes 
